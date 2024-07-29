@@ -1,0 +1,11 @@
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/bin/Debug/net8.0/Domain.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/Domain.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/Debug/net8.0/ref/Domain.dll

@@ -1,0 +1,15 @@
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/bin/Debug/net8.0/Persistence.deps.json
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/bin/Debug/net8.0/Persistence.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/bin/Debug/net8.0/Persistence.pdb
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/bin/Debug/net8.0/Domain.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/bin/Debug/net8.0/Domain.pdb
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.csproj.AssemblyReference.cache
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfoInputs.cache
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.AssemblyInfo.cs
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persiste.61C28332.Up2Date
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/refint/Persistence.dll
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/Persistence.pdb
+/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/Debug/net8.0/ref/Persistence.dll

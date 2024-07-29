@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/iremnuryilmaz/RiderProjects/DBContextTest/BankDbContextTest/BankDbContextTest.csproj": {}
+  },
+  "projects": {
+    "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Application/Application.csproj",
+        "packagesPath": "/Users/iremnuryilmaz/.nuget/packages/",
+        "outputPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnuryilmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj": {
+                "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj"
+              },
+              "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnuryilmaz/RiderProjects/DBContextTest/BankDbContextTest/BankDbContextTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/BankDbContextTest/BankDbContextTest.csproj",
+        "projectName": "BankDbContextTest",
+        "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/BankDbContextTest/BankDbContextTest.csproj",
+        "packagesPath": "/Users/iremnuryilmaz/.nuget/packages/",
+        "outputPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/BankDbContextTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnuryilmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Application/Application.csproj": {
+                "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Application/Application.csproj"
+              },
+              "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj": {
+                "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj"
+              },
+              "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj",
+        "packagesPath": "/Users/iremnuryilmaz/.nuget/packages/",
+        "outputPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnuryilmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/iremnuryilmaz/.nuget/packages/",
+        "outputPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/iremnuryilmaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj": {
+                "projectPath": "/Users/iremnuryilmaz/RiderProjects/DBContextTest/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
